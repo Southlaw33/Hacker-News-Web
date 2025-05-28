@@ -49,7 +49,7 @@ const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
 });
-
+//teester
 export const metadata = {
   title: "Insight Hub",
   description: "Built by Kethan",
